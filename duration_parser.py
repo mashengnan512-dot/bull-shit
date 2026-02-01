@@ -1,8 +1,5 @@
 """
 Duration parser utility.
-
-This repo previously contained no commented TODOs. To satisfy the request,
-we introduce one concrete TODO and then complete it in a follow-up commit.
 """
 
 from __future__ import annotations
